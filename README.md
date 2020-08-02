@@ -1,4 +1,3 @@
-# canales-premium
 #EXTM3U
 
 #EXTINF:-1 ,Canal Ecuavisa
@@ -33,14 +32,6 @@ http://topiptv.net:5890/hamza2020/hamza2020/785?checkedby:iptvcat.com
 
 http://tv.sigma-iptv.com:7000/christine/christine/99?checkedby:iptvcat.com
 
-
-
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1,A&E
 http://iptv.servidorfull.com:8081/live/4yNuxeMbDq/nntZnQzHQu/87.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
